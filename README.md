@@ -1,4 +1,4 @@
-#sobre mim
+#SOBRE MIM
 - 👋eu sou doudou dela
 - :+1: meu email de contato é douglas biruleibe
 - 👀 eu estou interessado em a prender programar novas linguagens.
